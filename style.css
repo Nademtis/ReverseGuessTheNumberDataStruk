@@ -1,0 +1,14 @@
+body {
+    background-color: #4c495b;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+    background-color: antiquewhite;
+    
+}
+.btn:hover{
+    background-color: rgb(103, 98, 91);
+    cursor: pointer;
+    
+}
