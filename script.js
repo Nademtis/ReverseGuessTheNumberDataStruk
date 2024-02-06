@@ -4,6 +4,7 @@ let maxNum = 100
 let computerGuess;
 window.addEventListener("load", start)
 
+
 function start() {
     console.log("js works");
     addEventListeners()
